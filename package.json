@@ -1,0 +1,21 @@
+{
+  "name": "dim-preprocessor-nightcss",
+  "version": "0.1.1",
+  "description": "auto create night css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chennanbei",
+  "license": "BSD-2-Clause",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JerroldLee/dim-preprocessor-nightcss.git"
+  },
+  "keywords": [
+    "nightcss"
+  ],
+  "bugs": {
+    "url": "https://github.com/JerroldLee/dim-preprocessor-nightcss/issues"
+  }
+}
